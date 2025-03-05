@@ -1,64 +1,23 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+*William Kroeger*  
+*wkroeger@smu.edu*  
+*Level 1 (Junior)*
 
 ## 1. Background in Quantitative Finance
-
-*In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
-
-*Delete these instructions and write 100-150 words*
+*I have a relatively elementary background in Quantitative Finance. I have read a decent amount of books about systematic/algorithmic trading, options pricing, and coding, but I've never built my own strategies or completed my own backtesting. My dad was a "quant" which is how I began to get into the space, and I have always had a keen interest in mathematics as well as financial markets. I have a little experience at a family office doing very basic/intro trading work, like equity research and learning how markets work. I am working at the New York Stock Exchange this upcoming summer doing data analytics on their fixed income desk.
 
 ## 2. Career Goals
-
-*In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
-
-*Delete these instructions and write 100-150 words*
+*In the short term, I aim to secure a quantitative research or trading internship at a hedge fund, proprietary trading firm, or investment bank. In the next five years, I hope to work as a full-time quantitative analyst or trader, specializing in algorithmic trading, risk management, or portfolio optimization. In the long term (10+ years), I aspire to take on a leadership role in the field, potentially leading a quantitative trading team or launching my own trading firm. My main areas of interest include high-frequency trading, statistical arbitrage, and machine learning applications in finance.*
 
 ## 3. What I Hope to Learn from This Program
-
-*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
-
-*Delete these instructions and write 100-150 words*
+*I hope to strengthen my technical skills in programming, particularly in Python and statistical modeling, to better analyze financial data. Additionally, I aim to deepen my understanding of financial markets, trading strategies, and risk management techniques. I am particularly interested in learning how to apply machine learning models to trading strategies and improving my ability to interpret market signals. Networking with industry professionals and peers is another key objective, as I want to gain insights from experienced traders and researchers. This program will serve as a stepping stone for me to bridge the gap between academic knowledge and practical application in trading.*
 
 ## 4. Current Technical Skills
-
-*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
-
-*Delete these instructions and write 75-100 words*
+*Java (basic), C++ (basic), Python (intermediate), R (basic), SQL (basic), Regression (intermediate), Time Series Analysis (beginner), Python libraries(pandas, numpy, polars, etc) (basic), Risk Metrics (intermediate)*
 
 ## 5. Development Plan & Program Goals
-
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
-
-*Delete these instructions and write 100-150 words*
+*During this program, I plan to develop my skills in quantitative trading strategy development, risk modeling, and market microstructure analysis. I will measure my progress through completed projects, backtested strategies, and improvements in my coding abilities. I plan to dedicate at least 10-15 hours per week to studying course materials, practicing coding, and working on trading models. Beyond the program, I will use books, research papers, and online resources to supplement my learning. Success for me in this program means being able to confidently design and implement a systematic trading strategy, understanding market behavior, and building a strong professional network within the quant finance industry.*
 
 ---
 

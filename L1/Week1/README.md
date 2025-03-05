@@ -5,11 +5,7 @@
 *Level 1 (Junior)*
 
 ## 1. Background in Quantitative Finance
-<<<<<<< HEAD
 *I have a relatively elementary background in Quantitative Finance. I have read a decent amount of books about systematic/algorithmic trading, options pricing, and coding, but I've never built my own strategies or completed my own backtesting. My dad was a "quant" which is how I began to get into the space, and I have always had a keen interest in mathematics as well as financial markets. I have a little experience at a family office doing very basic/intro trading work, like equity research and learning how markets work. I am working at the New York Stock Exchange this upcoming summer doing data analytics on their fixed income desk.
-=======
-*I have a relatively elementary background in Quantitative Finance. I have read a decent amount of books about systematic/algorithmic trading, options pricing, and coding, but I've never built my own strategies or completed my own backtesting. My dad was a "quant" which is how I began to get into the space, and I have always had a keen interest in mathematics as well as financial markets. I have a little experience at a family office doing very basic/intro trading work, like equity research and learning how markets work. I am working at the New York Stock Exchange this upcoming summer doing data analytics on their fixed income desk.*
->>>>>>> e50fd3779ee5298abe6932c996cd2838f38466f6
 
 ## 2. Career Goals
 *In the short term, I aim to secure a quantitative research or trading internship at a hedge fund, proprietary trading firm, or investment bank. In the next five years, I hope to work as a full-time quantitative analyst or trader, specializing in algorithmic trading, risk management, or portfolio optimization. In the long term (10+ years), I aspire to take on a leadership role in the field, potentially leading a quantitative trading team or launching my own trading firm. My main areas of interest include high-frequency trading, statistical arbitrage, and machine learning applications in finance.*
